@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Rahman Abdul Raheem Mohammed
 - 👀 I’m interested in coding and inventing 
 - 🌱 I’m currently learning about tech world 
-- 💞️ I’m looking to collaborate on any projects that will elivaate my understanding
+- 💞️ I’m looking to collaborate on any projects that will elevate my understanding
 - 📫 How to reach me... inv2contact@gmail.com is the best to reach me out
 
 <!---
