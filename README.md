@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and inventing 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on any projects that will elevate my understanding in field of software or mechanical engineering
-- 📫 How to reach me... inv2contact@gmail.com
+- 📫 How to reach me... @invarr0w on twitter[https://twitter.com/invarr0w]
 
 <!---
 invarrow/invarrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
