@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Rahman Abdul Raheem Mohammed
-- 👀 I’m interested in coding and inventing 
-- 🌱 I’m currently learning web development 
+- 👀 I’m interested in everything that sparks my curiosity
+- 🌱 I’m currently exploring diff fields
 - 💞️ I’m looking to collaborate on any projects that will elevate my understanding in field of STEM
 - 📫 How to reach me... @invarr0w on twitter[https://twitter.com/invarr0w]
 - 📣 Me on Socialss.... @inv_arrow on instagram[https://www.instagram.com/inv_arrow]
