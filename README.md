@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any projects that will elevate my understanding in field of STEM
 - 📫 How to reach me... @invarr0w on twitter[https://twitter.com/invarr0w]
 - 📣 Me on Socialss.... @inv_arrow on instagram[https://www.instagram.com/inv_arrow]
-- 🌐 My Personal Website... https://invarrow.github.io/mepage
 - My side project for collegemates - https://invarrow.github.io/NoteMates
 
 <!---
